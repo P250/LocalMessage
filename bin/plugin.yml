@@ -1,0 +1,12 @@
+main: me.johnny.localmessage.Main
+name: LocalMessage
+version: 1.0
+author: johnny boy#8125
+
+commands:
+  lm:
+   description: Messages players if they are within radius.
+     usage:/lm <radius> <message>
+  rm:
+   description: Messages players if they are within radius.
+     usage:/rm <radius> <message>
