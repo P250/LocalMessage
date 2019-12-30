@@ -1,0 +1,9 @@
+# Use placeholder {maxradius} to replace it with the commands maximum range.
+localmessage:
+  command:
+    maxradius_min: '&4Error, you can''t send a message less than 0 blocks away'
+    maxradius: 20
+    success: '&5Successfully sent message'
+    maxradius_limit: '&4Error, you can''t send a message more than {maxradius} blocks
+      away'
+    usage: '&4Usage: /lm <radius> <message>'
